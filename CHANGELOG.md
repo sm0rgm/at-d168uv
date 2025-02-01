@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2025-02-01 (SM0RGM)
+
+* Digital Contact list uppdaterad. Denna innehåller DMR-id för Norden. Vill du ha ett annat urval behöver du själv generera en CSV-fil hos radioid.net.
+
 ## 2025-01-05 (SM0RGM)
 
 * Skapat version av kodpluggen anpassad för Anytone AT-D168UV CPS + FW version 1.04.
