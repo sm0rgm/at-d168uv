@@ -50,6 +50,13 @@ Bland filerna i kodpluggen finner du filen SSA.jpg. Det är SSAs logotype som ka
 
 Den digitala kontaktlistan innehåller call från SM/LA/OH/OZ för att få ner storleken på den så att den med säkerhet får plats i alla modeller av Anytone. Vill du ha en kontaktlista med fler länder kan du skapa ett konto på [radioid.net](https://radioid.net) och generera kontaklistor med exakt de länder du vill ha med.
 
+## APRS ISS
+
+Från och med 2025-05-04 finns en simplexkanal med namnet "APRS ISS" för mottagning av APRS från ISS. APRS-frekvens nr 6 för sändning är satt till 145.825 MHz för att kunna sända APRS via ISS.
+
+Obs! För att sända APRS via ISS måste du ändra digipath till:
+ARISS,WIDE2-1
+
 ## Vad du måste göra!
 
 ### Vilka filer ska du hämta?
