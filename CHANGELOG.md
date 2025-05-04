@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2025-05-04 (SM0RGM)
+
+* Uppdaterat filer för CPS version 1.06.
+
 ## 2025-03-05 (SM0RGM)
 
 * DigitalContactList uppdaterad och tvättad avseende internationella tecken (bl a åäö)
