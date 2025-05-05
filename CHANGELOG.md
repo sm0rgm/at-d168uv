@@ -4,6 +4,18 @@
 ## 2025-05-04 (SM0RGM)
 
 * Uppdaterat filer för CPS version 1.06.
+* APRS-frekvens nr 8 ändrad till 145.825 MHz för APRS via ISS. 
+  Obs! För att sända APRS via ISS måste du ändra digipath till:
+  ARISS,WIDE2-1
+  Se denna [artikel av K7KEZ](https://k7kez.com/aprs-settings-for-the-iss-international-space-station/) om hur man kör APRS via ISS.
+
+* Ändrade kanaler per zon:
+    * Simplex
+        * +APRS ISS 145.825 MHz FM
+
+## 2025-03-09 (SM0RGM)
+
+SM0RUX/Pontus är silent key. Tänk gärna på Cancerfonden tel. 010-199 10 10
 
 ## 2025-03-05 (SM0RGM)
 
