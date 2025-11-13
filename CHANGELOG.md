@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2025\-11\-13 (SM0RGM)
+
+* APRS TOCALL ändrat till APAT16 (Anytone AT-D168UV).
+
 ## 2025\-10\-11 (SM0RGM)
 
 * Fixat CSV-header för filerna i Extra/DL och Extra/PA.
